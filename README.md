@@ -28,7 +28,7 @@ A lightweight backend service for e-commerce order management with RESTful API b
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mini-eshop-api.git
+git clone https://github.com/abdulawr/mini-eshop-api.git
 cd mini-eshop-api
 
 # Install dependencies
