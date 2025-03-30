@@ -46,3 +46,21 @@ php artisan migrate
 
 # Generate API docs
 php artisan l5-swagger:generate
+
+{
+  "customer_email": "user@example.com",
+  "items": [
+    {
+      "product_name": "Keyboard",
+      "unit_price": 45.50,
+      "quantity": 1
+    },
+    {
+      "product_name": "Mouse",
+      "unit_price": 20.00,
+      "quantity": 2
+    }
+  ]
+}
+
+php artisan test
