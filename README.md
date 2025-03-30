@@ -31,6 +31,14 @@ A lightweight backend service for e-commerce order management with RESTful API b
 git clone https://github.com/abdulawr/mini-eshop-api.git
 cd mini-eshop-api
 
+#Modify .env file and add the following
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=mini_eshop
+DB_USERNAME=root
+DB_PASSWORD=
+
 # Install dependencies
 composer install
 
