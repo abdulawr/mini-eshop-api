@@ -17,14 +17,14 @@ A lightweight backend service for e-commerce order management with RESTful API b
 -  Input validation
 -  Clean code architecture following Laravel best practices
 
-## ⚙️ Requirements
+##  Requirements
 
 - PHP 8.1+
 - Composer 2.0+
 - MySQL 8.0+
 - Laravel 10.x/11.x
 
-## 🚀 Installation
+##  Installation
 
 ```bash
 # Clone the repository
