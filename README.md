@@ -1,4 +1,4 @@
-# 🛍️ Mini eShop Order Management API
+#  Mini eShop Order Management API
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -7,15 +7,15 @@
 
 A lightweight backend service for e-commerce order management with RESTful API built with Laravel.
 
-## ✨ Features
+##  Features
 
-- ✅ Create new orders with items
-- 🔍 Retrieve order details by ID
-- 📋 List all orders
-- 🧮 Automatic total price calculation
-- 📚 Comprehensive API documentation (Swagger/OpenAPI)
-- 🛡️ Input validation
-- 🏗️ Clean code architecture following Laravel best practices
+-  Create new orders with items
+-  Retrieve order details by ID
+-  List all orders
+-  Automatic total price calculation
+-  Comprehensive API documentation (Swagger/OpenAPI)
+-  Input validation
+-  Clean code architecture following Laravel best practices
 
 ## ⚙️ Requirements
 
